@@ -99,6 +99,15 @@ Game state is managed entirely in `src/App.tsx` with React `useState`:
 
 ---
 
+## Contributors
+
+| Avatar | Name | Role |
+|---|---|---|
+| ![claudechang07](https://avatars.githubusercontent.com/claudechang07?s=40) | [claudechang07](https://github.com/claudechang07) | Developer |
+| <img src="https://www.anthropic.com/favicon.ico" width="40" height="40"> | [Claude Code](https://claude.ai/code) | AI Assistant |
+
+---
+
 ## License
 
 MIT
